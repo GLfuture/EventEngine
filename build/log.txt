@@ -1,0 +1,14 @@
+==304585== Memcheck, a memory error detector
+==304585== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==304585== Using Valgrind-3.19.0 and LibVEX; rerun with -h for copyright info
+==304585== Command: ./CoScheduler
+==304585== Parent PID: 280927
+==304585== 
+==304585== 
+==304585== HEAP SUMMARY:
+==304585==     in use at exit: 0 bytes in 0 blocks
+==304585==   total heap usage: 51 allocs, 51 frees, 133,196 bytes allocated
+==304585== 
+==304585== All heap blocks were freed -- no leaks are possible
+==304585== 
+==304585== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

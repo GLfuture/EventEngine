@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/gong/projects/CoScheduler/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/CoScheduler.dir/Async.o -c /home/gong/projects/CoScheduler/Async.cc",
+  "file": "/home/gong/projects/CoScheduler/Async.cc"
+},
+{
+  "directory": "/home/gong/projects/CoScheduler/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/CoScheduler.dir/BlockWait.o -c /home/gong/projects/CoScheduler/BlockWait.cc",
+  "file": "/home/gong/projects/CoScheduler/BlockWait.cc"
+},
+{
+  "directory": "/home/gong/projects/CoScheduler/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/CoScheduler.dir/Coroutine.o -c /home/gong/projects/CoScheduler/Coroutine.cc",
+  "file": "/home/gong/projects/CoScheduler/Coroutine.cc"
+},
+{
+  "directory": "/home/gong/projects/CoScheduler/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/CoScheduler.dir/EventScheduler.o -c /home/gong/projects/CoScheduler/EventScheduler.cc",
+  "file": "/home/gong/projects/CoScheduler/EventScheduler.cc"
+},
+{
+  "directory": "/home/gong/projects/CoScheduler/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/CoScheduler.dir/main.o -c /home/gong/projects/CoScheduler/main.cc",
+  "file": "/home/gong/projects/CoScheduler/main.cc"
+}
+]
